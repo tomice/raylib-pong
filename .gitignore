@@ -1,0 +1,30 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+
+# CMake
+build/
+out/
+CMakeFiles/
+CMakeCache.txt
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+CTestTestfile.cmake
+
+# raylib
+lib/
+raylib/
+raylib.dll
+raylib.lib
+
+# Vim
+.*.swp
+.*.swo
+.*.swn
+*~
